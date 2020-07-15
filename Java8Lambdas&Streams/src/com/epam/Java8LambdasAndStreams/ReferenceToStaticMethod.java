@@ -1,4 +1,4 @@
-package com.epam.task;
+package com.epam.Java8LambdasAndStreams;
 
 import java.util.ArrayList;
 import java.util.Arrays;
